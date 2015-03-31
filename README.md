@@ -28,3 +28,4 @@ Links:
 * JPA - eclipseLink oder OpenJPA (Apache)
 * SSH - Apache SSHD
 * http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
+* PENCIL - http://pencil.evolus.vn/Downloads.html ein kleines Tool um Mockups zu erstellen. (nach Download des ZIP kann man es mit firefox oder XUL starten - irgendwo in z.b. firefox --app usr/share/pencil/application.ini)

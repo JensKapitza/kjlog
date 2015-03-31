@@ -18,9 +18,8 @@ Hier kommen noch Ideen
 * PDF Generieren
 * Screenshoot Funktion (ein Bild sagt mehr als ...)
 * Clipboard was niemals Vergisst (Option aktivierbar) hier will ich eine 'unendlichen' zyklichen Buffer haben, der Soriert je nach dem was ich mit STRG-C/STRG-V so mache. 
-
-
-
+* Pluginfähigkeit um fertige Log-Schablonen für gängige Logfiles zur Verfügung zu stellen
+* Liveansicht von Logfiles (vgl. tail -f)
 
 
 -----

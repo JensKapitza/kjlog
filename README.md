@@ -29,3 +29,4 @@ Links:
 * SSH - Apache SSHD
 * http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
 * PENCIL - http://pencil.evolus.vn/Downloads.html ein kleines Tool um Mockups zu erstellen. (nach Download des ZIP kann man es mit firefox oder XUL starten - irgendwo in z.b. firefox --app usr/share/pencil/application.ini)
+* am Rande erwähnt: mit https://bitbucket.org/javafxports/android/downloads/dalvik-sdk-8u40-ea3.zip der dalvik-sdk kann man ein JavaFX Programm zu einem APK machen und es unter Android laufen lassen. Mehr dazu auch hier: http://javafxports.org/page/SimplePort
